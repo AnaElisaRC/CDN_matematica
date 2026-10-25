@@ -1,19 +1,16 @@
-# Matemática
+📐 Matemática
 
-Materiais 001 a 009 da disciplina de Matemática para o curso de Ciência de Dados (2º semestre de 2024).
+Este repositório reúne os materiais didáticos (001 a 009) da disciplina de Matemática do curso de Tecnologia em Ciência de Dados para Negócios da FATEC Votorantim (2º semestre de 2024).
 
-## Conteúdo
+O conteúdo abrange os fundamentos matemáticos Essenciais para a análise de dados, modelagem e suporte às disciplinas quantitativas do curso.
 
-- Material 001 MAT CD 2s2024.pdf
-- Material 002 MAT CD 2s2024.pdf
-- Material 003 MAT CD 2S2024 (2).pdf
-- Material 004 MAT CD 2S2024.pdf
-- Material 005 MAT CD 2S2024.pdf
-- Material 006 MAT CD 2s2024.pdf
-- Material 007 MAT CD 2S2024.pdf
-- Material 008 MAT CD 2S2024.pdf
-- Material 009 MAT CD 2S2024.pdf
+📜 Licença e Uso
 
-## Autora
+Este repositório foi criado para fins de registro acadêmico e consulta de portfólio.
+- ❌ Não é permitida a cópia, reprodução ou redistribuição do conteúdo sem autorização prévia.
+- 👁️ Disponível apenas para visualização e consulta.
 
-Ana Elisa Rubinato - Ciência de Dados para Negócios (FATEC)
+✍️ Autora
+
+Ana Elisa Rubinato Cavalheiro  
+Graduanda em Tecnologia em Ciência de Dados para Negócios — FATEC Votorantim
